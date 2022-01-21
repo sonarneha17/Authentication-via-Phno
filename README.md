@@ -5,4 +5,6 @@ Here I have created simple login page where we have to enter mobile number and i
 I have used FIREBASE TECHNOLOGY to make it work. Also, the entered mobile number will be stored in firebase database.
 
 
-![alt text](https://github.com/sonarneha17/Autentication-via-phno/blob/Main/.jpg?raw=true)
+
+![alt text](Login.png) 
+![alt text](Login.png)
